@@ -18,4 +18,8 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 ### I’m da bomb
 
-I like to eat eat eat apples and bananas
+
+> I like to eat eat eat apples and bananas and pears
+
+![SD logo circle.png]({{site.baseurl}}/docs/SD logo circle.png)
+
